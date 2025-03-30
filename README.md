@@ -1,9 +1,9 @@
-### 📝Docs
+### 📝 Docs
 - Visit : https://connector.mintlify.app
 
 ##
 
-### 🏆 Ped Menu
+### 👕 Ped Menu
 - Version 1.0.0
 - ESX/QBCore Compatible
 - ox_lib Required
