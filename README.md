@@ -2,7 +2,6 @@
   <b>🔗 My Links 🔗</b><br>  
   <a href="https://discord.gg/nfo">Discord</a> |
   <a href="https://connector.mintlify.app/">Docs</a><br><br>
-  <img src="https://cdn.nfo.lol/ConnectorPFP.jpg" style="width: 60%">
 </p>
 
 ##
