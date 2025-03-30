@@ -1,8 +1,5 @@
-<p align='center'>
-  <b>🔗 My Links 🔗</b><br>  
-  <a href="https://discord.gg/nfo">Discord</a> |
-  <a href="https://connector.mintlify.app/">Docs</a><br><br>
-</p>
+### 📝Docs
+- Visit : https://connector.mintlify.app
 
 ##
 
